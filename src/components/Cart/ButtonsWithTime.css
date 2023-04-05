@@ -1,0 +1,15 @@
+.button-style {
+    border-radius: 50%;
+    width: 4em;
+    height: 4em;
+    margin: 1em;
+    background-color: #FFE0B3;
+    color: white;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.button-style:hover{
+    background-color: #f7ca88;
+}

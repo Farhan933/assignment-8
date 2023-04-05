@@ -1,0 +1,22 @@
+.nav{
+    background-color: rgb(15, 15, 15);
+    height: 80px;
+}
+
+.nav-info{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    padding-left: 100px;
+}
+
+.nav-icon{
+    color: white;
+    padding-right: 30px;
+}
+
+.nav-title{
+    color: white;
+    font-size: 24px;
+    font-weight: 500;
+}

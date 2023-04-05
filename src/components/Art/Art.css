@@ -1,0 +1,24 @@
+.art{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
+.art-inside{
+    margin: 80px;
+}
+
+.art-title{
+    font-size: 20px;
+    font-weight: 600;
+    margin: 10px;
+    color: rgb(77, 77, 77);
+}
+
+.art-gallery{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.cart-gallery{
+    background-color: rgb(241, 228, 228);
+}
